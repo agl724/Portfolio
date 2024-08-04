@@ -1,0 +1,89 @@
+a {
+    color: #11999E;
+    padding: 20px;
+    font-family: 'Open Sans', sans-serif;
+    text-decoration: none;
+}
+a:hover {
+    color: #F4F9F9;
+}
+body {
+    background-color: #F4F9F9;
+    margin: 0;
+    text-align: center;
+    font-family: 'Libre Baskerville', serif;
+}
+h1 {
+    margin: 50px auto 0 auto;
+    padding-top: 136px;
+    font-size: 469%;
+    font-family: 'Great Vibes', cursive;
+    color: #00ADB5;
+    line-height: 0.8;
+}
+h2 {
+    font-family: 'Open Sans', sans-serif;
+    color: #00ADB5;
+    font-size: 2rem;
+    font-weight: normal;
+}
+h3 {
+    font-family: 'Open Sans', sans-serif;
+    color: #71C9CE;
+}
+hr {
+    border-color: lightgrey;
+    border-width: 6px;
+    border-style: dotted none none;
+    width: 6%;
+    margin: 100px auto;
+}
+.profile {padding-top: 60px;}
+.mid {
+    margin: 100px 0;
+}
+.bottom-container {
+    background-color: #71C9CE;
+    padding: 50px;
+    color: white;
+}
+.bottom-cloud {
+    position: absolute;
+}
+.top-cloud {
+    position: absolute;
+    right: 220px;
+    padding-top: 50px;
+}
+.skill-row {
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+}
+.laptop-img {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.chillies-img {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+.btn {
+  -webkit-border-radius: 6;
+  -moz-border-radius: 6;
+  border-radius: 6px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 22px;
+  background: #71C9CE;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+.contact-me {padding-bottom: 60px;}
+
+.btn:hover {
+  background: #61C0BF;
+  text-decoration: none;
+}
